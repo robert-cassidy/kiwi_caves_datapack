@@ -1,0 +1,8 @@
+{ 
+    "values":
+    [
+        "minecraft:redstone_lamp",
+        "minecraft:redstone_torch",
+        "create:rose_quartz_lamp"
+    ]
+}

@@ -1,0 +1,22 @@
+{ 
+    "values":
+    [
+        "#minecraft:acacia_logs",
+        "minecraft:acacia_planks",
+        "minecraft:acacia_sapling",
+        "minecraft:acacia_leaves",
+        "minecraft:acacia_slab",
+        "minecraft:acacia_fence",
+        "minecraft:acacia_stairs",
+        "minecraft:acacia_button",
+        "minecraft:acacia_pressure_plate",
+        "minecraft:acacia_door",
+        "minecraft:acacia_trapdoor",
+        "minecraft:acacia_fence_gate",
+        "minecraft:acacia_boat",
+        "minecraft:acacia_chest_boat",
+        "minecraft:acacia_sign",
+        "create:acacia_window",
+        "create:acacia_window_pane"
+    ]
+} 

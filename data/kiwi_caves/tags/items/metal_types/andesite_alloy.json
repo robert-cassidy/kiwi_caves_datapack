@@ -1,0 +1,9 @@
+{ 
+    "values":
+    [
+        "create:andesite_bars",
+        "create:andesite_door",
+        "create:andesite_ladder",
+        "create:andesite_scaffolding"
+    ]
+}

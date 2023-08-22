@@ -1,0 +1,27 @@
+{ 
+    "values":
+    [
+        "#minecraft:wool",
+        "minecraft:egg",
+        "minecraft:leather",
+        "minecraft:scute",
+        "minecraft:ink_sac",
+        "minecraft:glow_ink_sac",
+        "minecraft:nautilus_shell",
+        "minecraft:feather",
+        "minecraft:rabbit_foot",
+        "minecraft:rabbit_hide",
+        "minecraft:rabbit",
+        "minecraft:mutton",
+        "minecraft:beef",
+        "minecraft:chicken",
+        "minecraft:porkchop",
+        "minecraft:goat_horn",
+        "minecraft:cod",
+        "minecraft:salmon",
+        "minecraft:tropical_fish",
+        "minecraft:pufferfish",
+        "minecraft:snowball",
+        "minecraft:lead"
+    ]
+} 

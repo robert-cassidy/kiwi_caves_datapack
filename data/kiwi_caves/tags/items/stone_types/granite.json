@@ -1,0 +1,27 @@
+{ 
+    "values":
+    [
+		"minecraft:granite",
+		"minecraft:polished_granite",
+		"minecraft:granite_wall",
+		"minecraft:polished_granite_stairs",
+		"minecraft:granite_stairs",
+		"minecraft:polished_granite_slab",
+		"minecraft:granite_slab",
+		"create:cut_granite",
+		"create:cut_granite_brick_slab",
+		"create:cut_granite_brick_stairs",
+		"create:cut_granite_brick_wall",
+		"create:cut_granite_bricks",
+		"create:cut_granite_slab",
+		"create:cut_granite_stairs",
+		"create:cut_granite_wall",
+		"create:granite",
+		"create:granite_pillar",
+		"create:layered_granite",
+		"create:small_granite_bricks"
+    ]
+}
+
+
+

@@ -1,0 +1,22 @@
+{ 
+    "values":
+    [
+        "#minecraft:dark_oak_logs",
+        "minecraft:dark_oak_planks",
+        "minecraft:dark_oak_sapling",
+        "minecraft:dark_oak_leaves",
+        "minecraft:dark_oak_slab",
+        "minecraft:dark_oak_fence",
+        "minecraft:dark_oak_stairs",
+        "minecraft:dark_oak_button",
+        "minecraft:dark_oak_pressure_plate",
+        "minecraft:dark_oak_door",
+        "minecraft:dark_oak_trapdoor",
+        "minecraft:dark_oak_fence_gate",
+        "minecraft:dark_oak_boat",
+        "minecraft:dark_oak_chest_boat",
+        "minecraft:dark_oak_sign",
+        "create:dark_oak_window",
+        "create:dark_oak_window_pane"
+    ]
+} 

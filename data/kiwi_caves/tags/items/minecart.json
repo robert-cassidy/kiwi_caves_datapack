@@ -1,0 +1,12 @@
+{ 
+    "values":
+    [
+        "#minecraft:rails",
+        "minecraft:minecart",
+        "minecraft:chest_minecart",
+        "minecraft:furnace_minecart",
+        "minecraft:tnt_minecart",
+        "minecraft:hopper_minecart",
+        "create:minecart_coupling"
+    ]
+}

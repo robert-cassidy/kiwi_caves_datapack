@@ -1,0 +1,22 @@
+{ 
+    "values":
+    [
+        "#minecraft:oak_logs",
+        "minecraft:oak_planks",
+        "minecraft:oak_sapling",
+        "minecraft:oak_leaves",
+        "minecraft:oak_slab",
+        "minecraft:oak_fence",
+        "minecraft:oak_stairs",
+        "minecraft:oak_button",
+        "minecraft:oak_pressure_plate",
+        "minecraft:oak_door",
+        "minecraft:oak_trapdoor",
+        "minecraft:oak_fence_gate",
+        "minecraft:oak_boat",
+        "minecraft:oak_chest_boat",
+        "minecraft:oak_sign",
+        "create:oak_window",
+        "create:oak_window_pane"
+    ]
+} 

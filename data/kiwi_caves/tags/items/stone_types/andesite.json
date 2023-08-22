@@ -1,0 +1,25 @@
+{ 
+    "values":
+    [
+		"minecraft:andesite",
+		"minecraft:polished_andesite",
+		"minecraft:andesite_wall",
+		"minecraft:andesite_stairs",
+		"minecraft:polished_andesite_stairs",
+		"minecraft:andesite_slab",
+		"minecraft:polished_andesite_slab",
+		"create:andesite_pillar",
+		"create:cut_andesite",
+		"create:cut_andesite_brick_slab",
+		"create:cut_andesite_brick_stairs",
+		"create:cut_andesite_brick_wall",
+		"create:cut_andesite_bricks",
+		"create:cut_andesite_slab",
+		"create:cut_andesite_stairs",
+		"create:layered_andesite",
+		"create:small_andesite_bricks"
+    ]
+}
+
+
+

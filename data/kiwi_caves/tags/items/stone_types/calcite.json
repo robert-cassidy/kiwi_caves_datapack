@@ -1,0 +1,19 @@
+{ 
+    "values":
+    [
+		"minecraft:calcite",
+		"create:calcite_pillar",
+		"create:cut_calcite",
+		"create:cut_calcite_brick_slab",
+		"create:cut_calcite_brick_stairs",
+		"create:cut_calcite_brick_wall",
+		"create:cut_calcite_bricks",
+		"create:cut_calcite_slab",
+		"create:cut_calcite_stairs",
+		"create:layered_calcite",
+		"create:small_calcite_bricks"
+    ]
+}
+
+
+

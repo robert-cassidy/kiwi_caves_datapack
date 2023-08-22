@@ -1,0 +1,20 @@
+{ 
+    "values":
+    [
+		"create:cut_scoria",
+		"create:cut_scoria_brick_slab",
+		"create:cut_scoria_brick_stairs",
+		"create:cut_scoria_brick_wall",
+		"create:cut_scoria_bricks",
+		"create:cut_scoria_slab",
+		"create:cut_scoria_stairs",
+		"create:layered_scoria",
+		"create:polished_scoria",
+		"create:scoria",
+		"create:scoria_pillar",
+		"create:small_scoria_bricks"
+    ]
+}
+
+
+

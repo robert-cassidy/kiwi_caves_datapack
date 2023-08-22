@@ -1,0 +1,18 @@
+{
+    "type": "create:crushing",
+    "ingredients": [
+    	{"item": "minecraft:diamond_boots"}
+    ],
+	"results": [
+		{
+			"item": "minecraft:diamond",
+			"count": 1
+		},
+		{
+			"item": "minecraft:diamond",
+			"count": 2,
+			"chance": 0.10
+		}
+	],
+	"processingTime": 300
+}

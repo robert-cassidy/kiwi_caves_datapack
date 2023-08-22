@@ -1,0 +1,14 @@
+{ 
+    "values":
+    [
+        "minecraft:big_dripleaf",
+        "minecraft:small_dripleaf",
+        "minecraft:spore_blossom",
+        "minecraft:glow_lichen", 
+        "minecraft:hanging_roots", 
+        "minecraft:cave_vines", 
+        "minecraft:cave_vines_plant", 
+        "minecraft:moss_carpet", 
+        "minecraft:big_dripleaf_stem"
+    ]
+} 

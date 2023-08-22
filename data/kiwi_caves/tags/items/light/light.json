@@ -1,0 +1,15 @@
+{ 
+    "values":
+    [
+        "#minecraft:candles",
+        "#kiwi_caves:light/aquatic",
+        "#kiwi_caves:light/campfire",
+        "#kiwi_caves:light/end",
+        "#kiwi_caves:light/froglight",
+        "#kiwi_caves:light/lantern",
+        "#kiwi_caves:light/nether",
+        "#kiwi_caves:light/redstone",
+        "#kiwi_caves:light/torch",
+        "#kiwi_caves:plants/light_emitting"
+    ]
+}

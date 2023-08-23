@@ -2,16 +2,24 @@
     "values":
     [
 		"create:crimsite",
-		"create:crimsite_pillar",
 		"create:cut_crimsite",
-		"create:cut_crimsite_brick_slab",
-		"create:cut_crimsite_brick_stairs",
-		"create:cut_crimsite_brick_wall",
-		"create:cut_crimsite_bricks",
-		"create:cut_crimsite_slab",
 		"create:cut_crimsite_stairs",
+		"create:cut_crimsite_slab",
+		"create:cut_crimsite_wall",
+		"create:polished_cut_crimsite",
+		"create:polished_cut_crimsite_stairs",
+		"create:polished_cut_crimsite_slab",
+		"create:polished_cut_crimsite_wall",
+		"create:cut_crimsite_bricks",
+		"create:cut_crimsite_brick_stairs",
+		"create:cut_crimsite_brick_slab",
+		"create:cut_crimsite_brick_wall",
+		"create:small_crimsite_bricks",
+		"create:small_crimsite_brick_stairs",
+		"create:small_crimsite_brick_slab",
+		"create:small_crimsite_brick_wall",
 		"create:layered_crimsite",
-		"create:small_crimsite_bricks"
+		"create:crimsite_pillar"
     ]
 }
 

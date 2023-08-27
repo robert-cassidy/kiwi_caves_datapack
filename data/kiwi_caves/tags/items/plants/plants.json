@@ -5,6 +5,7 @@
         "#minecraft:flowers",
         "#minecraft:saplings",
         "#minecraft:leaves",
+        "#minecraft:villager_plantable_seeds",        
         "#kiwi_caves:plants/aquatic",
         "#kiwi_caves:plants/end",
         "#kiwi_caves:plants/land_grass",

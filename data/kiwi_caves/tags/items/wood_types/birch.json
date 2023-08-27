@@ -16,6 +16,7 @@
         "minecraft:birch_boat",
         "minecraft:birch_chest_boat",
         "minecraft:birch_sign",
+        "minecraft:birch_hanging_sign"
         "create:birch_window",
         "create:birch_window_pane"
     ]

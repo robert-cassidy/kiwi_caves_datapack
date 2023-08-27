@@ -18,6 +18,7 @@
         "minecraft:mangrove_boat",
         "minecraft:mangrove_chest_boat",
         "minecraft:mangrove_sign",
+        "minecraft:mangrove_hanging_sign",
         "create:mangrove_window",
         "create:mangrove_window_pane"
     ]

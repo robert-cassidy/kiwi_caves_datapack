@@ -16,6 +16,7 @@
         "minecraft:dark_oak_boat",
         "minecraft:dark_oak_chest_boat",
         "minecraft:dark_oak_sign",
+        "minecraft:dark_oak_hanging_sign",
         "create:dark_oak_window",
         "create:dark_oak_window_pane"
     ]

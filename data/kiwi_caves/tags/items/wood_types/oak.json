@@ -16,6 +16,7 @@
         "minecraft:oak_boat",
         "minecraft:oak_chest_boat",
         "minecraft:oak_sign",
+        "minecraft:oak_hanging_sign",
         "create:oak_window",
         "create:oak_window_pane"
     ]

@@ -1,7 +1,7 @@
 { 
     "values":
     [
-        "minecraft:dripstone",
+        "minecraft:dripstone_block",
         "minecraft:pointed_dripstone",
         "create:cut_dripstone",
         "create:cut_dripstone_stairs",

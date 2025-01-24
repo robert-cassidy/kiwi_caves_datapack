@@ -1,0 +1,26 @@
+{ 
+    "values":
+    [
+        "createdeco:dean_bricks",
+        "createdeco:short_dean_bricks",
+        "createdeco:tiled_dean_bricks",
+        "createdeco:long_dean_bricks",
+        "createdeco:cracked_dean_bricks",
+        "createdeco:mossy_dean_bricks",
+        "createdeco:dean_brick_stairs",
+        "createdeco:short_dean_brick_stairs",
+        "createdeco:tiled_dean_brick_stairs",
+        "createdeco:long_dean_brick_stairs",
+        "createdeco:cracked_dean_brick_stairs",
+        "createdeco:mossy_dean_brick_stairs",
+        "createdeco:dean_brick_slab",
+        "createdeco:short_dean_brick_slab",
+        "createdeco:tiled_dean_brick_slab",
+        "createdeco:long_dean_brick_slab",
+        "createdeco:cracked_dean_brick_slab",
+        "createdeco:mossy_dean_brick_slab"
+    ]
+}
+
+
+

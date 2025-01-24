@@ -14,7 +14,7 @@
 			"item": "minecraft:diamond",
 			"count": 2,
 			"chance": 0.10
-		},
+		}
 	],
 	"processingTime": 300
 }

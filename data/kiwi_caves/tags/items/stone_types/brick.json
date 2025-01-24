@@ -5,7 +5,22 @@
         "minecraft:bricks",
         "minecraft:brick_slab",
         "minecraft:brick_stairs",
-        "minecraft:brick_wall"
+        "minecraft:brick_wall",
+        "createdeco:short_red_bricks",
+        "createdeco:tiled_red_bricks",
+        "createdeco:long_red_bricks",
+        "createdeco:cracked_red_bricks",
+        "createdeco:mossy_red_bricks",
+        "createdeco:short_red_brick_stairs",
+        "createdeco:tiled_red_brick_stairs",
+        "createdeco:long_red_brick_stairs",
+        "createdeco:cracked_red_brick_stairs",
+        "createdeco:mossy_red_brick_stairs",
+        "createdeco:short_red_brick_slab",
+        "createdeco:tiled_red_brick_slab",
+        "createdeco:long_red_brick_slab",
+        "createdeco:cracked_red_brick_slab",
+        "createdeco:mossy_red_brick_slab"
     ]
 }
 

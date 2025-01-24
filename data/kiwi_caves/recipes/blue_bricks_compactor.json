@@ -1,0 +1,20 @@
+{
+  "type": "create:compacting",
+  "ingredients": [
+    {"item": "minecraft:brick"},
+    {"item": "minecraft:brick"},
+    {"item": "minecraft:brick"},
+    {"item": "minecraft:brick"},
+    {"item": "create:asurine"},
+    {"item": "minecraft:brick"},
+    {"item": "minecraft:brick"},
+    {"item": "minecraft:brick"},
+    {"item": "minecraft:brick"}
+  ],
+  "results": [
+    {
+      "item": "createdeco:blue_bricks",
+      "count": 4
+    }
+  ]
+}

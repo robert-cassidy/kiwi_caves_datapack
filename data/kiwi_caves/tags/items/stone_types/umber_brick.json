@@ -1,0 +1,26 @@
+{ 
+    "values":
+    [
+        "createdeco:umber_bricks",
+        "createdeco:short_umber_bricks",
+        "createdeco:tiled_umber_bricks",
+        "createdeco:long_umber_bricks",
+        "createdeco:cracked_umber_bricks",
+        "createdeco:mossy_umber_bricks",
+        "createdeco:umber_brick_stairs",
+        "createdeco:short_umber_brick_stairs",
+        "createdeco:tiled_umber_brick_stairs",
+        "createdeco:long_umber_brick_stairs",
+        "createdeco:cracked_umber_brick_stairs",
+        "createdeco:mossy_umber_brick_stairs",
+        "createdeco:umber_brick_slab",
+        "createdeco:short_umber_brick_slab",
+        "createdeco:tiled_umber_brick_slab",
+        "createdeco:long_umber_brick_slab",
+        "createdeco:cracked_umber_brick_slab",
+        "createdeco:mossy_umber_brick_slab"
+    ]
+}
+
+
+

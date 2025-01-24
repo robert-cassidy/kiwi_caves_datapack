@@ -1,0 +1,20 @@
+{
+  "type": "create:compacting",
+  "ingredients": [
+    {"item": "minecraft:brick"},
+    {"item": "minecraft:brick"},
+    {"item": "minecraft:brick"},
+    {"item": "minecraft:brick"},
+    {"item": "create:scorchia"},
+    {"item": "minecraft:brick"},
+    {"item": "minecraft:brick"},
+    {"item": "minecraft:brick"},
+    {"item": "minecraft:brick"}
+  ],
+  "results": [
+    {
+      "item": "createdeco:dusk_bricks",
+      "count": 4
+    }
+  ]
+}

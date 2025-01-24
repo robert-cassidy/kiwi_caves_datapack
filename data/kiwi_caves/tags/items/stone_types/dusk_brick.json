@@ -1,0 +1,26 @@
+{ 
+    "values":
+    [
+        "createdeco:dusk_bricks",
+        "createdeco:short_dusk_bricks",
+        "createdeco:tiled_dusk_bricks",
+        "createdeco:long_dusk_bricks",
+        "createdeco:cracked_dusk_bricks",
+        "createdeco:mossy_dusk_bricks",
+        "createdeco:dusk_brick_stairs",
+        "createdeco:short_dusk_brick_stairs",
+        "createdeco:tiled_dusk_brick_stairs",
+        "createdeco:long_dusk_brick_stairs",
+        "createdeco:cracked_dusk_brick_stairs",
+        "createdeco:mossy_dusk_brick_stairs",
+        "createdeco:dusk_brick_slab",
+        "createdeco:short_dusk_brick_slab",
+        "createdeco:tiled_dusk_brick_slab",
+        "createdeco:long_dusk_brick_slab",
+        "createdeco:cracked_dusk_brick_slab",
+        "createdeco:mossy_dusk_brick_slab"
+    ]
+}
+
+
+

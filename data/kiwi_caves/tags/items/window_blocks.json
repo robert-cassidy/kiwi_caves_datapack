@@ -28,7 +28,7 @@
         "create:oak_window",
         "create:ornate_iron_window",
         "create:spruce_window",
-        "create:warped_window"
+        "create:warped_window",
         "create:framed_glass",
         "create:horizontal_framed_glass",
         "create:vertical_framed_glass"

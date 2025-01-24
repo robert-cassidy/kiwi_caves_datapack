@@ -1,0 +1,22 @@
+minecraft coal block - 9 charcoal shapeless
+minecraft coarse dirt - shaped duplicated as shapeless (create mixer) 
+minecraft diorite - shaped duplicated as shapeless (create mixer)
+minecraft gravel - shapeless from 4 flint
+minecraft red nether bricks - shaped duplicated as shapeless (create mixer)
+minecraft stripped bamboo - added cutting recipe for saw
+minecraft stripped cherry - added cutting recipe for saw
+
+minecraft diamond boots - crushing yields 1 diamond with a 10% chance for 2 more
+minecraft diamond chestplate - crushing yields 1 diamond with a 10% chance for 4 more
+minecraft diamond helmet - crushing yields 1 diamond with a 10% chance for 2 more
+minecraft diamond leggings - crushing yields 1 diamond with a 10% chance for 3 more
+
+create scorchia - shaped duplicated as shapeless (create mixer)
+
+deco blue bricks - shaped recipe duplicated as compacting
+deco dean bricks - shaped recipe duplicated as compacting
+deco dusk bricks - shaped recipe duplicated as compacting
+deco pearl bricks - shaped recipe duplicated as compacting
+deco scarlet bricks - shaped recipe duplicated as compacting
+deco umber bricks - shaped recipe duplicated as compacting
+deco verdant bricks - shaped recipe duplicated as compacting

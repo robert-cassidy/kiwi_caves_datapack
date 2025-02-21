@@ -1,0 +1,17 @@
+{
+  "type": "create:compacting",
+  "ingredients": [
+    {"item": "minecraft:cobblestone"},
+    {"item": "minecraft:cobblestone"},
+    {"item": "minecraft:andesite"},
+    {"item": "minecraft:andesite"},
+    {
+      "amount": 8100,
+      "fluid": "minecraft:lava",
+      "nbt": {}
+    }
+  ],
+  "results": [
+    {"item": "minecraft:tuff"}
+  ]
+}

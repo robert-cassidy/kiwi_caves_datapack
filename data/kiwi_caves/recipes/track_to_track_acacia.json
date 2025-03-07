@@ -1,4 +1,11 @@
 {
+    "frc:conditions": [
+        {
+            "recipeconditions:mod_loaded": "create"
+        },{
+            "recipeconditions:mod_loaded": "railways"
+        }
+    ],
     "type": "minecraft:crafting_shapeless",
     "ingredients": [
         {"item": "create:track"},

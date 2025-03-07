@@ -1,4 +1,9 @@
 {
+    "frc:conditions": [
+        {
+            "recipeconditions:mod_loaded": "create"
+        }
+    ],
     "type": "create:crushing",
     "ingredients": [
     	{"item": "minecraft:diamond_leggings"}

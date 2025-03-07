@@ -1,20 +1,25 @@
 {
-  "type": "create:compacting",
-  "ingredients": [
-    {"item": "minecraft:brick"},
-    {"item": "minecraft:brick"},
-    {"item": "minecraft:brick"},
-    {"item": "minecraft:brick"},
-    {"item": "create:scoria"},
-    {"item": "minecraft:brick"},
-    {"item": "minecraft:brick"},
-    {"item": "minecraft:brick"},
-    {"item": "minecraft:brick"}
-  ],
-  "results": [
-    {
-      "item": "createdeco:umber_bricks",
-      "count": 4
-    }
-  ]
+    "frc:conditions": [
+        {
+            "recipeconditions:mod_loaded": "create"
+        }
+    ],
+    "type": "create:compacting",
+    "ingredients": [
+        {"item": "minecraft:brick"},
+        {"item": "minecraft:brick"},
+        {"item": "minecraft:brick"},
+        {"item": "minecraft:brick"},
+        {"item": "create:scoria"},
+        {"item": "minecraft:brick"},
+        {"item": "minecraft:brick"},
+        {"item": "minecraft:brick"},
+        {"item": "minecraft:brick"}
+    ],
+    "results": [
+        {
+            "item": "createdeco:umber_bricks",
+            "count": 4
+        }
+    ]
 }

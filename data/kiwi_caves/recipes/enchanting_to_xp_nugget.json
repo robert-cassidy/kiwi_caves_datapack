@@ -2,8 +2,6 @@
     "frc:conditions": [
         {
             "recipeconditions:mod_loaded": "create"
-        },{
-            "recipeconditions:item_registered": "create:experience_nugget"
         }
     ],
     "type": "minecraft:crafting_shapeless",

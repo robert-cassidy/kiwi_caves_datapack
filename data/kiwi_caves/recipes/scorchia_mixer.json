@@ -1,4 +1,9 @@
 {
+    "frc:conditions": [
+        {
+            "recipeconditions:mod_loaded": "create"
+        }
+    ],
     "type": "minecraft:crafting_shapeless",
     "ingredients": [
         {"item": "create:scoria"},

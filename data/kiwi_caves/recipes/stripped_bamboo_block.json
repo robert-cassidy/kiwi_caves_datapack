@@ -1,14 +1,19 @@
 {
-  "type": "create:cutting",
-  "ingredients": [
-    {
-      "item": "minecraft:bamboo_block"
-    }
-  ],
-  "results": [
-    {
-      "item": "minecraft:stripped_bamboo_block"
-    }
-  ],
-  "processingTime": 50
+    "frc:conditions": [
+        {
+            "recipeconditions:mod_loaded": "create"
+        }
+    ],
+    "type": "create:cutting",
+    "ingredients": [
+        {
+            "item": "minecraft:bamboo_block"
+        }
+    ],
+    "results": [
+        {
+            "item": "minecraft:stripped_bamboo_block"
+        }
+    ],
+    "processingTime": 50
 }

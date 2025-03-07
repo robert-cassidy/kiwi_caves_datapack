@@ -1,0 +1,11 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {"item": "create:track"},
+        {"item": "minecraft:cherry_slab"}
+    ],
+    "result": {
+        "item": "railways:track_cherry",
+        "count": 1
+    }
+}

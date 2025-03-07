@@ -20,3 +20,9 @@ deco pearl bricks - shaped recipe duplicated as compacting
 deco scarlet bricks - shaped recipe duplicated as compacting
 deco umber bricks - shaped recipe duplicated as compacting
 deco verdant bricks - shaped recipe duplicated as compacting
+
+-- to add
+
+steam n' rails variant track - add shapeless recipe for track + variant ingredient (16 recipes)
+minecraft stone - add crushing yields one cobblestone
+minecraft coral blocks - add shapeless recipe for any 9 fan/coral of same type (5 recipes)

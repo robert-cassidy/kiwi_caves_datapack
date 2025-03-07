@@ -1,0 +1,11 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {"item": "create:track"},
+        {"item": "minecraft:dark_oak_slab"}
+    ],
+    "result": {
+        "item": "railways:track_dark_oak",
+        "count": 1
+    }
+}

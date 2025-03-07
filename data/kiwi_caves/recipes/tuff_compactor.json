@@ -12,6 +12,9 @@
     }
   ],
   "results": [
-    {"item": "minecraft:tuff"}
+    {
+      "item": "minecraft:tuff",
+      "count": 4
+    }
   ]
 }

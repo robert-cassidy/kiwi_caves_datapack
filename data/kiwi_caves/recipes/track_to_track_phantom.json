@@ -1,0 +1,11 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {"item": "create:track"},
+        {"item": "minecraft:phantom_membrane"}
+    ],
+    "result": {
+        "item": "railways:track_phantom",
+        "count": 1
+    }
+}

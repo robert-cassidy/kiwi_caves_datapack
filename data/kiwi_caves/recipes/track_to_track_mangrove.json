@@ -1,0 +1,11 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {"item": "create:track"},
+        {"item": "minecraft:mangrove_slab"}
+    ],
+    "result": {
+        "item": "railways:track_mangrove",
+        "count": 1
+    }
+}

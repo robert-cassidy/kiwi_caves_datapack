@@ -6,7 +6,6 @@
             "recipeconditions:item_registered": "create:experience_nugget"
         }
     ],
-    "type": "create:crushing",
     "type": "minecraft:crafting_shapeless",
     "ingredients": [
         {"item": "minecraft:experience_bottle"},

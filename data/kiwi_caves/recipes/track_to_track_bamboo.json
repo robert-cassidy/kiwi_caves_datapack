@@ -1,0 +1,11 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {"item": "create:track"},
+        {"item": "minecraft:bamboo"}
+    ],
+    "result": {
+        "item": "railways:track_bamboo",
+        "count": 1
+    }
+}
